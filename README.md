@@ -1,4 +1,4 @@
-# Diabetes-Regression-Classification
+# TBI Treatment Compliance DMHS
 Traumatic brain injury (TBI) is a prevalent condition that impacts military populations in deployment and non-deployment settings. Since 2000, over 460,000 service members (SMs) have been diagnosed with a TBI in the DoD1. 
 Cognitive symptoms can include disruption in attention, executive function, or memory. One approach to supplementing cognitive rehabilitation is the Brain Fitness Center (BFC) at Walter Reed National Military Medical Center (WRNMMC). The BFC provides computer-based cognitive training, biofeedback, and brain-health classes to active duty, retired, and military dependents reporting cognitive complaints. 
 Support has been found for the efficacy of computer-based cognitive rehabilitation interventions2. However, various factors have been identified as challenges in treatment compliance3. 
